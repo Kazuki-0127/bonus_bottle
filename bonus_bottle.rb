@@ -7,14 +7,6 @@ bonus=buy/3
 can=bonus
 
 
-
-
-
-
-
-
-
-
 while true
     goukei=amari+bonus
 
